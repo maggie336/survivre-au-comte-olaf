@@ -15,6 +15,18 @@ dossier de ce skill, dans son navigateur. Le jeu est 100 % autonome : pas
 de compte, pas de clé, pas d'installation. Ne modifie jamais les fichiers
 du jeu : l'interface graphique doit rester exactement telle quelle.
 
+## Comment jouer
+
+**But.** Échappe au comte Olaf et survis avec les orphelins Baudelaire jusqu'à être retrouvé.
+
+**Pour commencer.** Choisis ton personnage : Violette, Klaus, Prunille ou le comte Olaf. Joue seul (les autres sont des robots) ou à deux.
+
+**Contrôles.** Déplace ton personnage avec les flèches du clavier (ou le pavé de flèches à l'écran). Touche ou clique les objets quand tu es près d'eux pour agir.
+
+**Déroulement.** Visite les 4 maisons dans l'ordre : le château d'Olaf, la maison de l'oncle Monty, la maison de tante Joséphine au bord du lac, puis la scierie Lucky Smells. Fais les corvées (balayer, vaisselle, linge), choisis une recette dans le livre de cuisine et prends le tramway pour acheter les ingrédients. Si Olaf t'attrape, éloigne-toi vite avec les flèches !
+
+**Gagner.** Survis dans les 4 maisons jusqu'à être retrouvé : tu as gagné le jeu !
+
 ## Le jeu
 
 Jeu d'aventure d'après les Désastreuses aventures des orphelins Baudelaire,
